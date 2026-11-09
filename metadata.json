@@ -1,0 +1,8 @@
+{
+  "name": "DEMONSEED",
+  "description": "A customizable Digital Audio Workstation (DAW) featuring real-time Web Audio synthesizers, step sequencers, a midi piano roll, and AI-powered audio stem generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
